@@ -32,14 +32,11 @@ ICH_Final_project/
 
 📘 **Notebooks (Google Colab)**
 
-```python
-| Notebook                   | Beschreibung                                                                                                 | Link                                           |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- |
-| **01_data_cleaning.ipynb** | Datenbereinigung, Typkonvertierung, Behandlung fehlender Werte, deskriptive Statistik                        | https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/01_data_cleaning.ipynb |
-| **02_eda.ipynb**           | Zeitreihenanalyse, Kampagnenanalyse, Vertriebsanalyse, Zahlungs- und Produktanalyse, geografische Auswertung | https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/02_eda.ipynb |
-| **03_analysis.ipynb**      | Produktanalyse, Unit Economics, Metrikbaum, Hypothesenentwicklung und Testmethodik                           | https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/03_analysis.ipynb |
-
-```
+| Notebook                   | Beschreibung                                                                                                 | Link                                                                                                                                                                                   |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **01_data_cleaning.ipynb** | Datenbereinigung, Typkonvertierung, Behandlung fehlender Werte, deskriptive Statistik                        | [https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/01_data_cleaning.ipynb](https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/01_data_cleaning.ipynb) |
+| **02_eda.ipynb**           | Zeitreihenanalyse, Kampagnenanalyse, Vertriebsanalyse, Zahlungs- und Produktanalyse, geografische Auswertung | [https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/02_eda.ipynb](https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/02_eda.ipynb)                     |
+| **03_analysis.ipynb**      | Produktanalyse, Unit Economics, Metrikbaum, Hypothesenentwicklung und Testmethodik                           | [https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/03_analysis.ipynb](https://github.com/AleX5andr/ICH_Final_project/blob/main/notebooks/03_analysis.ipynb)           |
 
 ---
 
@@ -52,17 +49,16 @@ Stattdessen werden sie aus Google Sheets in Google Colab geladen.
 
 🔗 **Google Sheets Dateien**
 
-```python
-| Dataset  | Beschreibung      | Link                                                                                                                                                                                   |
-| -------- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| calls    | Anrufaktivität    | [https://docs.google.com/spreadsheets/d/1R0RGTCA13llyrsSnbEHNsJZqYhELlz8q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1R0RGTCA13llyrsSnbEHNsJZqYhELlz8q/edit?usp=sharing) |
-| contacts | Kontakte          | [https://docs.google.com/spreadsheets/d/1yBklBNwMNmmxxdGR11QcqxuH4QX82vNo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yBklBNwMNmmxxdGR11QcqxuH4QX82vNo/edit?usp=sharing) |
-| deals    | Verkaufsprozesse  | [https://docs.google.com/spreadsheets/d/1hGoe5yHfmBKZ_XRd_7jTbTQ1vflT7R1G/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hGoe5yHfmBKZ_XRd_7jTbTQ1vflT7R1G/edit?usp=sharing) |
-| spend    | Marketingausgaben | [https://docs.google.com/spreadsheets/d/1ZNU4Ll0fkDf_BOqn44SXvrUod8Y-eMjM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZNU4Ll0fkDf_BOqn44SXvrUod8Y-eMjM/edit?usp=sharing) |
+| Dataset      | Beschreibung      | Link                                                                                                                                                                                   |
+| ------------ | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **calls**    | Anrufaktivität    | [https://docs.google.com/spreadsheets/d/1R0RGTCA13llyrsSnbEHNsJZqYhELlz8q/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1R0RGTCA13llyrsSnbEHNsJZqYhELlz8q/edit?usp=sharing) |
+| **contacts** | Kontakte          | [https://docs.google.com/spreadsheets/d/1yBklBNwMNmmxxdGR11QcqxuH4QX82vNo/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1yBklBNwMNmmxxdGR11QcqxuH4QX82vNo/edit?usp=sharing) |
+| **deals**    | Verkaufsprozesse  | [https://docs.google.com/spreadsheets/d/1hGoe5yHfmBKZ_XRd_7jTbTQ1vflT7R1G/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1hGoe5yHfmBKZ_XRd_7jTbTQ1vflT7R1G/edit?usp=sharing) |
+| **spend**    | Marketingausgaben | [https://docs.google.com/spreadsheets/d/1ZNU4Ll0fkDf_BOqn44SXvrUod8Y-eMjM/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ZNU4Ll0fkDf_BOqn44SXvrUod8Y-eMjM/edit?usp=sharing) |
 
-```
 
 Zusätzliche Produktanalyse (Unit Economics) befindet sich in:
+
 📄 /data/product_analytics.xlsx
 
 ---
